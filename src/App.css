@@ -1,12 +1,14 @@
 /* Body styles */
 body {
-  background-color: rgb(83, 199, 157);
-  box-shadow: inset 0 -300px 600px rgb(218, 229, 225);
+  
+  
   height: 100vh;
 }
 
 /* Container styles */
 .container {
+  box-shadow: inset 0 -300px 600px rgb(218, 229, 225);
+  background-color: rgb(83, 199, 157);
   height: 100%;
   display: flex;
 }
@@ -38,8 +40,8 @@ body {
 }
 
 .left .img2 {
-  width: 600px;
-  height: 400px;
+  width: 630px;
+  height: 470px;
   z-index: 1;
   position: absolute;
   left: 0;
@@ -71,6 +73,7 @@ body {
   padding: 4rem;
   padding-top: 0;
   text-align: center;
+  height: 65%;
 }
 
 .right-one h1 {
