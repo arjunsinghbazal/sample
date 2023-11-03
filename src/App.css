@@ -40,12 +40,13 @@ body {
 }
 
 .left .img2 {
-  width: 630px;
-  height: 470px;
+  width: 610px;
+  height: 420px;
   z-index: 1;
   position: absolute;
   left: 0;
   top: 22;
+
 }
 
 /* Language styles */
